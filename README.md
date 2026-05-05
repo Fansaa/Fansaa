@@ -19,7 +19,7 @@
 
 I'm **Fathan Fardian Sanum**, an Informatics undergraduate student at **Telkom University, Bandung** with a GPA of **3.97/4.00**. My primary interest lies at the intersection of Artificial Intelligence and practical software engineering. I have hands-on experience in machine learning, NLP, and computer vision, and I enjoy transforming raw data into meaningful insights and building intelligent systems.
 
-I actively serve as a **Practicum Assistant** for AI, OOP (Java), and Programming Algorithm (Go) courses at the Informatics Lab. Beyond teaching, I develop research-grade projects in object detection, multimodal learning, and sentiment analysis, and I build full-stack web applications with clean architecture and intuitive UI/UX.
+I actively serve as a **Practicum Assistant** for AI, OOP (Java), and Programming Algorithm (Go) courses at the Informatics Lab. Beyond teaching, I develop projects in object detection, sentiment analysis, and I build web applications with clean architecture and intuitive UI/UX.
 
 ---
 
@@ -39,7 +39,7 @@ I actively serve as a **Practicum Assistant** for AI, OOP (Java), and Programmin
 
 [![Web](https://skillicons.dev/icons?i=nextjs,js,java,html,css,mysql&theme=dark)](https://skillicons.dev)
 
-[![Other](https://skillicons.dev/icons?i=opencv,sklearn,nodejs,tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=opencv,sklearn,tailwind,bootstrap,figma&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -49,7 +49,7 @@ I actively serve as a **Practicum Assistant** for AI, OOP (Java), and Programmin
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github,linux,docker,postman&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
 
 [![Tools2](https://skillicons.dev/icons?i=notion,googlecolab&theme=dark)](https://skillicons.dev)
 
