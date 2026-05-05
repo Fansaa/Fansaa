@@ -49,9 +49,7 @@ I actively serve as a **Practicum Assistant** for AI, OOP (Java), and Programmin
 
 <div align="center">
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
-
-[![Tools2](https://skillicons.dev/icons?i=notion,googlecolab&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,github,notion&theme=dark)](https://skillicons.dev)
 
 </div>
 
