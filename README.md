@@ -78,8 +78,8 @@ I am currently conducting academic research on **Isolated Character Recognition 
 ## 📊 Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fansaa&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=f4a261&text_color=ffffff" alt="GitHub Stats" />
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Fansaa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fansaa&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=e63946&text_color=ffffff" alt="Top Langs" />
 
