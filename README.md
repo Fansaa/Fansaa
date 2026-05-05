@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:e63946,100:1a1a2e&height=200&section=header&text=Hi%2C%20I%27m%20Fathan%20Fardian%20Sanum&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Researcher%20%26%20Full-Stack%20Developer&descAlignY=58&descColor=f4a261&animation=fadeIn" />
+</div>
+<div align="center">
+
 <h1 align="center">Hi 👋, I'm Fansa</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
