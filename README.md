@@ -2,7 +2,32 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,60:8b0000,100:0d0d0d&height=180&section=header&text=Hello!%20I'm%20Fansa&fontSize=42&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" />
 
-<img src="assets/IMG_0810.JPG" alt="Fathan Fardian Sanum" width="320" />
+<pre aria-label="ASCII portrait of Fathan Fardian Sanum">
+                 .           .
+                  .::-*%%#+-  .
+           ......=@@@%@@@@@@%: .
+       ...      :@@%*#***##%@@...
+     ..   ..:----*#*%%%#*%%**#...
+ ...   .::-+#@*#*+*#%###**#+=+. .
+    ..-**++++*+-:.:-**#*#***-..
+..:-==+++:..        +#**%#*=.
+...:.::.           .:=++*++-..
+......  ...........:: .=*+-....
+..:--..::::::::::::...-#@@*:..... .
+:.:-:...:..:...........*@@* .........
+...:-.................:#%@*...........
+....:::..............:=%%@=.........:..
+     ...............::+@%%=........=: .
+         ..........:::*@%%-...... :-:...
+           ........::-%%@*:...... .--...
+            .....:::.+@%@=....... :*:.:.
+            .....:--:%%%%:......:.=*:::.
+             .....-=*@%@*.........*+.-:.
+             ......:=#%#- ........==:-...
+             .........:...........:=--...
+              ..........: .........-=:...
+               ................... ==. ..
+</pre>
 
 <h3>🎓 Informatics Student at Telkom University, Bandung &nbsp;·&nbsp; GPA 3.97 / 4.00</h3>
 <h4>AI / ML Researcher &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Practicum Assistant</h4>
