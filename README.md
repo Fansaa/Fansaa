@@ -17,7 +17,7 @@
 
 ---
 
-I'm **Fathan Fardian Sanum**, an Informatics undergraduate student at **Telkom University, Bandung** with a GPA of **3.97/4.00**. My primary interest lies at the intersection of Artificial Intelligence and practical software engineering. I have hands-on experience in machine learning, NLP, and computer vision, and I enjoy transforming raw data into meaningful insights and building intelligent systems.
+I'm **Fathan Fardian Sanum**, an Informatics undergraduate student at **Telkom University, Bandung** with a GPA of **3.98/4.00**. My primary interest lies at the intersection of Artificial Intelligence and practical software engineering. I have hands-on experience in machine learning, NLP, and computer vision, and I enjoy transforming raw data into meaningful insights and building intelligent systems.
 
 I actively serve as a **Practicum Assistant** for AI, OOP (Java), and Programming Algorithm (Go) courses at the Informatics Lab. Beyond teaching, I develop projects in object detection, sentiment analysis, and I build web applications with clean architecture and intuitive UI/UX.
 
